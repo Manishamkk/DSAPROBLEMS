@@ -1,6 +1,9 @@
 
 import java.util.Scanner;
 
+
+//INPUT 1234
+//OUTPUT =10
 public class SumOfDigit{
     public static void main(String[] args){
         int sum = 0;
