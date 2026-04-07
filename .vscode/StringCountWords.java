@@ -1,4 +1,4 @@
-package String.exam;
+
 
 public class StringCountWords {
     public static void main(String[] args) {
