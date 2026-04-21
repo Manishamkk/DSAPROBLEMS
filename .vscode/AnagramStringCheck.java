@@ -20,7 +20,6 @@ public class AnagramStringCheck {
             System.out.println("Not an Anagram");
             return;
         }
-
         // Convert to char array
         char[] arr1 = str1.toCharArray();
         char[] arr2 = str2.toCharArray();
